@@ -42,7 +42,7 @@ source activate {env_name}
 
 #### Step3 Git Clone專案
 ```shell
-git clone https://github.com/GaryChenCloudMile/recommendation_course/blob/master/README.md
+git clone https://github.com/GaryChenCloudMile/recommendation_course
 ```
 
 安裝相關套件：

@@ -7,7 +7,7 @@
 目前datalab tensorflow版本只支援到1.2.1, 請執行CMD.ipynb升級tensorflow以及scikit-learn套件如下圖
 ![Alt text](./CMD.jpg)
 
-Python Version: 3.5
+### Python Version: 3.5
 會使用到的 Python 函式庫有：
 
 1. NumPy, Scipy：矩陣運算函式庫

@@ -3,7 +3,7 @@
 ## 簡介
 預設使用GCP Goole Cloud Platform Datalab環境, 本機無須安裝任何套件, Datalab set up請參考 [GCP Datalab set up](https://docs.google.com/presentation/d/1ycHlObI_YyydrEiECdag_V_n1sXd8StQqrqdrBSoPI8/edit#slide=id.g2b481b6fdb_0_282)
 
-## Datalab Upgrade libs
+## Datalab Upgrade Libs
 目前datalab tensorflow版本只支援到1.2.1, 請執行CMD.ipynb升級tensorflow以及scikit-learn套件, 如下圖
 ![Alt text](./CMD.jpg)
 

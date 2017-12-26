@@ -70,7 +70,8 @@ lab_reco_model_mf_dnn.ipynb             Recommendation Matrix Factorization加�
 
 ## 範例: 檔名非lab開頭的notebook
 ```
-tutorial_linear.ipynb                   Linear regression example
+gradient_demo.ipynb                     一般Gradient Descent與Adagrad的範例
+tutorial_linear.ipynb                   Linear regression example
 tutorial_dnn_practice.ipynb             
 reco_memory_base.ipynb                  Collaborative filtering演算法
 reco_model_mf.ipynb                     
